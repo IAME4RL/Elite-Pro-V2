@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 //Feel free to customize my bot informations to yours. Starting from this point
 //owmner v card
-global.ytname = "YT: ElitePro" //ur yt chanel name
+global.ytname = "YT: DADDY REEPHA" //ur yt chanel name
 global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
